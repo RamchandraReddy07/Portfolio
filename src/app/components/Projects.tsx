@@ -32,13 +32,6 @@ const Projects = () => {
             <div key={index} className="bg-gray-50 rounded-lg overflow-hidden shadow-sm">
               <div className="relative h-48 w-full">
                 <div className="absolute inset-0 bg-gray-200 animate-pulse" />
-                {/* Uncomment when you have actual images */}
-                {/* <Image
-                  src={project.image}
-                  alt={project.title}
-                  layout="fill"
-                  objectFit="cover"
-                /> */}
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">

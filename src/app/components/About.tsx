@@ -34,19 +34,6 @@ const About = () => {
                 {/* Add more education items */}
               </ul>
             </div>
-            {/* <div className="bg-gray-50 p-6 rounded-lg">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">
-                Experience
-              </h3>
-              <ul className="space-y-3">
-                <li className="text-gray-600">
-                  <span className="font-medium">Associate Software Engineer</span>
-                  <br />
-                  Accenture, Hyderabad, India
-                </li>
-                
-              </ul>
-            </div> */}
           </div>
         </div>
       </div>

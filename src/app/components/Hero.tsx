@@ -26,17 +26,6 @@ const Hero = () => {
             </a>
           </div>
         </div>
-        {/* <div className="md:w-1/2 mt-12 md:mt-0 flex justify-center">
-          <div className="relative w-64 h-64 md:w-96 md:h-96">
-            <div className="absolute inset-0 bg-blue-600 rounded-full opacity-10 animate-pulse"></div>
-           
-            <div className="absolute inset-0 flex items-center justify-center">
-              <div className="w-56 h-56 md:w-80 md:h-80 bg-gray-200 rounded-full overflow-hidden">
-                <div className="w-full h-full bg-gray-300 animate-pulse"></div>
-              </div>
-            </div>
-          </div>
-        </div> */}
       </div>
     </section>
   );
