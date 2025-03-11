@@ -5,7 +5,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 py-32 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 text-center md:text-left">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Hi, I'm <span className="text-blue-600">Ramchandra Reddy Sathu</span>
+            Hi, I&apos;m <span className="text-blue-600">Ramchandra Reddy Sathu</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
             Full Stack Developer | Problem Solver | Tech Enthusiast

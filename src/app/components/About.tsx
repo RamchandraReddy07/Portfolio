@@ -14,7 +14,7 @@ const About = () => {
           </p>
           <p className="text-lg text-gray-600 mb-6">
             My journey in technology began with Frontend development, and since
-            then, I've worked on various projects that have helped me develop a
+            then, I&apos;ve worked on various projects that have helped me develop a
             deep understanding of software development principles and best
             practices.
           </p>
